@@ -1,140 +1,163 @@
 <div align="center">
 
-# Hi, I'm Nilesh Rai 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1d4ed8,100:38bdf8&height=230&section=header&text=Nilesh%20Rai&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20%7C%20CLOUD%20%7C%20AUTOMATION&descAlignY=60&descSize=18" alt="Nilesh Rai — DevOps, Cloud, Automation" width="100%" />
 
-### DevOps • Cloud • Automation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=Automate+the+repeatable.;Build+reliable+delivery+pipelines.;Learn+continuously.+Ship+thoughtfully.)](https://git.io/typing-svg)
 
-Building reliable delivery workflows and learning how to make infrastructure
-more repeatable, observable, and secure.
+[![GitHub followers](https://img.shields.io/github/followers/nileshrai724?label=FOLLOWERS&style=flat-square&logo=github&color=2563eb)](https://github.com/nileshrai724?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/nileshrai724?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&logo=github&color=0f172a)](https://github.com/nileshrai724?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=nileshrai724&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/nileshrai724)
 
-[![GitHub followers](https://img.shields.io/github/followers/nileshrai724?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/nileshrai724?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/nileshrai724?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=181717)](https://github.com/nileshrai724?tab=repositories)
+</div>
+
+<div align="center">
+
+### 👋 Hi, I'm Nilesh
+
+Exploring **DevOps, cloud, and automation**—with a focus on making software delivery more repeatable, observable, and reliable.
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-- 🌱 I’m growing my skills in **DevOps, cloud platforms, and infrastructure automation**.
-- 🛠️ I enjoy exploring how code moves from a developer's machine to a reliable production service.
-- 🔍 Interested in **CI/CD, containers, Infrastructure as Code, monitoring, and cloud-native systems**.
-- 🤝 Open to collaborating on useful automation and learning projects.
-- 📫 Find me on [GitHub](https://github.com/nileshrai724).
+### 🧭 A little about me
 
-> **Make it repeatable. Make it observable. Make it reliable.**
+- 🌱 Growing my skills in DevOps, cloud platforms, and Infrastructure as Code.
+- 🛠️ Interested in the journey from source code to reliable services.
+- 🔎 Exploring CI/CD, containers, monitoring, and cloud-native systems.
+- 🤝 Open to learning projects and collaboration.
 
----
+</td>
+<td width="45%" valign="top">
 
-## 🧰 Technologies & tools
+### 🎯 My principles
 
-Tools I use or am exploring—this list is a work in progress.
+> **Automate** the repeatable · **Observe** what you operate · **Improve** with every release
 
-### Cloud
+Small changes. Clear feedback. Reliable systems.
 
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+</td>
+</tr>
+</table>
 
-### Containers & orchestration
+## 🧰 DevOps toolkit
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+<div align="center">
 
-### Infrastructure as Code & configuration
+**CLOUD**
 
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Bicep](https://img.shields.io/badge/Azure%20Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### CI/CD & source control
+**CONTAINERS & ORCHESTRATION**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-### Scripting & operating systems
+**INFRASTRUCTURE AS CODE**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Azure Bicep](https://img.shields.io/badge/Azure%20Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### Monitoring & observability
+**DELIVERY & AUTOMATION**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+**SYSTEMS & SCRIPTING**
 
-## 🔄 How I think about DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-```text
-Plan → Code → Build → Test → Release → Deploy → Operate → Observe
-  ↑                                                            │
-  └──────────────────── feedback & improvement ────────────────┘
+**OBSERVABILITY**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+</div>
+
+<sub>Tools I use or am exploring—I'm continuously learning and refining this toolkit.</sub>
+
+## 🔄 The DevOps feedback loop
+
+```mermaid
+flowchart LR
+    A[Plan] --> B[Code]
+    B --> C[Build]
+    C --> D[Test]
+    D --> E[Release]
+    E --> F[Deploy]
+    F --> G[Operate]
+    G --> H[Observe]
+    H --> A
 ```
 
-- **Automation first:** reduce repetitive work and make common tasks consistent.
-- **Infrastructure as Code:** review infrastructure changes like application code.
-- **Small, safe releases:** keep changes understandable and make failures easier to recover from.
-- **Observability:** use logs, metrics, and traces to understand system behavior.
-- **Security throughout:** build secure defaults into development and delivery workflows.
-
----
-
-## 🚀 Projects
-
-I’m building and documenting practical projects around automation, cloud, and delivery. Check my repositories for the latest work:
-
 <div align="center">
 
-[![Explore my repositories](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nileshrai724?tab=repositories)
+**Plan → Code → Build → Test → Release → Deploy → Operate → Observe → Improve**
 
 </div>
 
-> **Tip:** Pin 3–6 of your best repositories on your GitHub profile. Add a clear README to each one with its purpose, architecture, setup steps, and screenshots or diagrams.
+- 🔁 **Automate** repeatable tasks and delivery steps.
+- 🏗️ **Version** infrastructure changes alongside application code.
+- 📈 **Observe** systems with useful logs, metrics, and alerts.
+- 🔐 **Build in** secure defaults from development through deployment.
 
----
+## 🚀 Projects & learning
 
-## 📊 GitHub at a glance
+I’m working toward practical projects in cloud, delivery automation, and infrastructure. Browse my repositories for the latest:
+
+<div align="center">
+
+[![Browse repositories](https://img.shields.io/badge/BROWSE%20MY%20REPOSITORIES-1d4ed8?style=for-the-badge)](https://github.com/nileshrai724?tab=repositories)
+
+</div>
+
+**Project ideas I enjoy:** CI/CD pipelines · containerized apps · reusable infrastructure · monitoring dashboards
+
+> ⭐ Pin your best projects on your GitHub profile and give each repository a clear README with its purpose, setup, and architecture.
+
+## 📊 GitHub dashboard
 
 <div align="center">
 
 <a href="https://github.com/nileshrai724">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nileshrai724&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Nilesh's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nileshrai724&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics for Nilesh Rai" />
 </a>
 <a href="https://github.com/nileshrai724">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshrai724&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshrai724&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </a>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=nileshrai724&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<br />
+
+<a href="https://github.com/nileshrai724">
+  <img src="https://streak-stats.demolab.com?user=nileshrai724&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
 </a>
 
 </div>
 
----
+## 🤝 Connect
 
-## 🎯 Currently focusing on
-
-- Creating clean, reusable CI/CD workflows.
-- Packaging applications with containers and understanding orchestration.
-- Provisioning cloud infrastructure with version-controlled templates.
-- Improving monitoring, alerting, and operational documentation.
-
----
-
-## 🤝 Let's connect
-
-Have a project, idea, or learning resource to share? Feel free to connect or open a discussion through GitHub.
+Have a project idea or a useful resource to share? Reach out through GitHub:
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-nileshrai724-181717?style=for-the-badge&logo=github)](https://github.com/nileshrai724)
 
-<sub>Thanks for stopping by! If something here is useful, a ⭐ on a repository is always appreciated.</sub>
+<br />
+
+<sub>Thanks for visiting — keep learning, keep automating, and ship something great. ✨</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,55:1d4ed8,100:0f172a&height=110&section=footer" alt="" width="100%" />
 
 </div>
