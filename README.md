@@ -115,15 +115,15 @@ flowchart LR
 
 ## 🚀 Projects & learning
 
-I’m working toward practical projects in cloud, delivery automation, and infrastructure. Browse my repositories for the latest:
+I’m building a hands-on DevOps learning lab with **10 small, documented projects** covering scripting, containers, CI/CD, infrastructure, Kubernetes, and monitoring.
 
 <div align="center">
 
-[![Browse repositories](https://img.shields.io/badge/BROWSE%20MY%20REPOSITORIES-1d4ed8?style=for-the-badge)](https://github.com/nileshrai724?tab=repositories)
+[![Explore the 10 DevOps projects](https://img.shields.io/badge/EXPLORE%2010%20DEVOPS%20PROJECTS-1d4ed8?style=for-the-badge)](./projects/learning/README.md)
 
 </div>
 
-**Project ideas I enjoy:** CI/CD pipelines · containerized apps · reusable infrastructure · monitoring dashboards
+**Learning path:** Python automation → Docker → GitHub Actions → Terraform → Ansible → Kubernetes → Prometheus
 
 > ⭐ Pin your best projects on your GitHub profile and give each repository a clear README with its purpose, setup, and architecture.
 

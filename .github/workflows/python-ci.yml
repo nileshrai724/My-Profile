@@ -1,0 +1,31 @@
+name: Python CI
+
+on:
+  push:
+    paths:
+      - "projects/learning/01-system-health/**"
+      - "projects/learning/05-github-actions-ci/**"
+      - ".github/workflows/python-ci.yml"
+  pull_request:
+    paths:
+      - "projects/learning/01-system-health/**"
+      - "projects/learning/05-github-actions-ci/**"
+      - ".github/workflows/python-ci.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run unit tests
+        working-directory: projects/learning/01-system-health
+        run: python -m unittest -v

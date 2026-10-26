@@ -1,0 +1,13 @@
+services:
+  exporter:
+    build: .
+    expose:
+      - "8000"
+  prometheus:
+    image: prom/prometheus:v2.54.1
+    ports:
+      - "127.0.0.1:9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    depends_on:
+      - exporter
